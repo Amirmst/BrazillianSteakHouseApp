@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1001,
+        "name":"Picanha",
+        "alternateName":"Prime Part of the Top Sirloin",
+        "imageName":"none",
+        "description":"Our signature steak, picanha represents the art and science of churrasco cooking. Lightly seasoned with rock salt and sliced thin, it is tender with a robust flavor. There would be no churrasco without picanha.",
+        "category":"steak"
+    },
+    {
+        "id": 1002,
+        "name":"Filet Mignon",
+        "alternateName":"Beef Tenderloin",
+        "imageName":"none",
+        "description":"You have never tasted filet prepared like this before. Our gaucho chefs expertly grill the tenderloin on skewers and skillfully carve the perfect bite every time.",
+        "category":"steak"
+    },
+    {
+        "id": 1003,
+        "name":"Beef Ancho",
+        "alternateName":"Ribeye",
+        "imageName":"none",
+        "description":"Arguably one of the most popular cuts in the world, the ancho requires a unique cooking technique to bring out its intense profile. We grill over direct heat to break down the marbling and deliver an unforgettable texture and distinct flavor.",
+        "category":"steak"
+    },
+    {
+        "id": 1004,
+        "name":"Alcatra",
+        "alternateName":"Top Sirloin",
+        "imageName":"none",
+        "description":"Alcatra is a special cut of top sirloin originating in the steakhouses of Southern Brazil. One of the largest cuts served in our dining rooms, you shouldn’t miss a sample of this perfectly seasoned, thinly carved cut.",
+        "category":"steak"
+    },
+    {
+        "id": 1005,
+        "name":"Fraldinha",
+        "alternateName":"Bottom Sirloin",
+        "imageName":"none",
+        "description":"Fraldinha is one of the most distinctive and flavorful cuts of meat from Southern Brazil due to its strong marbling characteristics. Our gaucho chefs carve against the grain to ensure the cut remains as tender and flavorful as possible.",
+        "category":"steak"
+    },
+    {
+        "id": 1006,
+        "name":"Costela",
+        "alternateName":"Beef Ribs",
+        "imageName":"none",
+        "description":"These succulent ribs are first rubbed slightly with rock salt, which creates a seasoned crust. The costela is then grilled for several hours to bring forward its natural flavors.",
+        "category":"steak"
+    },
+    {
+        "id": 1007,
+        "name":"Medalhões Com Bacon",
+        "alternateName":"Bacon-Wrapped Steak",
+        "imageName":"none",
+        "description":"Steak is lightly seasoned with rock salt and then wrapped in our hardwood-smoked, honey-cured bacon.",
+        "category":"steak"
+    },
+    {
+        "id": 1007,
+        "name":"New York Strip",
+        "alternateName":"New York Strip",
+        "imageName":"none",
+        "description":"Seasoned with rock salt and fire-roasted to tender.",
+        "category":"steak"
+    },
+    {
+        "id": 1007,
+        "name":"Wagyu New York Strip",
+        "alternateName":"Wagyu New York Strip",
+        "imageName":"none",
+        "description":"Premium graded Kerwee Wagyu, aged for 21 days.",
+        "category":"steak"
+    },
+    {
+        "id": 1008,
+        "name":"Cordeiro",
+        "alternateName":"Lamb",
+        "imageName":"none",
+        "description":"For lamb lovers or those curious to taste it for the first time, our gaucho chefs serve the cordeiro as Prime Lamb Steak, succulent lamb chops or a tender leg of lamb.",
+        "category":"chicken, lamb & pork"
+    },
+    {
+        "id": 1009,
+        "name":"Costela De Porco",
+        "alternateName":"Pork Ribs",
+        "imageName":"none",
+        "description":"The ribs are marinated in a signature combination of white wine and special seasoning, and then slow-roasted to perfection.",
+        "category":"chicken, lamb & pork"
+    },
+    {
+        "id": 1010,
+        "name":"Frango",
+        "alternateName":"Chicken",
+        "imageName":"none",
+        "description":"Our chicken leg recipe includes a custom beer and brandy marinade, which makes it one of our most talked-about meats. Our gaucho chefs also wrap tender chicken breasts in savory bacon.",
+        "category":"chicken, lamb & pork"
+    },
+    {
+        "id": 1011,
+        "name":"Lombo",
+        "alternateName":"Pork Loin",
+        "imageName":"none",
+        "description":"Pork medallions are coated with Parmesan cheese, and then grilled to seal in the juiciness of this lean meat.",
+        "category":"chicken, lamb & pork"
+    },
+    {
+        "id": 1012,
+        "name":"Linguiça",
+        "alternateName":"Spicy Pork Sausage",
+        "imageName":"none",
+        "description":"Spicy pork sausage with savory garlic, onion with red chili.",
+        "category":"chicken, lamb & pork"
+    },
+    {
+        "id": 1013,
+        "name":"Pork Picanha",
+        "alternateName":"Pork Picanha",
+        "imageName":"none",
+        "description":"Lightly seasoned, tender, fire-roasted and carved tableside.",
+        "category":"chicken, lamb & pork"
+    }
+]
